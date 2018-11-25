@@ -7,7 +7,7 @@ PROTON RV_32I is a basic microprocessor coded in Verilog which supports limited 
 * Supports Dual phased Clock.
 * Asynchronous RESET.
 ## Getting Started
-* Use the file in 'src/' folder to compile the processor.
-* For testing the processor use the file located in 'testbench/' folder, It uses the program located in 'testCode/' folder.
+* Use the file in `src/` folder to compile the processor.
+* For testing the processor use the file located in `testbench/` folder, It uses the program located in `testCode/` folder.
 ## BUGS or NAME conflict
 Please mail any conflict to raghavrastogi08@yahoo.co.in
